@@ -1,0 +1,1 @@
+Arogyam is a mobile-based healthcare app that helps users monitor symptoms, get AI-powered health suggestions, and track medical history. Built using Java and Firebase, it offers a simple and reliable way to support basic self-diagnosis and health management.
