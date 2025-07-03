@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "441499442599",
+    "project_id": "arogyam2",
+    "storage_bucket": "arogyam2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441499442599:android:143c26f1510698a184aa82",
+        "android_client_info": {
+          "package_name": "com.Example.Arogyam2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE_M8xkVEBF75kwQ1woNd5dF_rXd5EnGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441499442599:android:8392f355ec14d28f84aa82",
+        "android_client_info": {
+          "package_name": "com.Hardik.Arogyam2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE_M8xkVEBF75kwQ1woNd5dF_rXd5EnGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

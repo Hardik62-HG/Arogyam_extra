@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">441499442599</string>
+    <string name="google_api_key" translatable="false">AIzaSyAE_M8xkVEBF75kwQ1woNd5dF_rXd5EnGA</string>
+    <string name="google_app_id" translatable="false">1:441499442599:android:143c26f1510698a184aa82</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAE_M8xkVEBF75kwQ1woNd5dF_rXd5EnGA</string>
+    <string name="google_storage_bucket" translatable="false">arogyam2.firebasestorage.app</string>
+    <string name="project_id" translatable="false">arogyam2</string>
+</resources>

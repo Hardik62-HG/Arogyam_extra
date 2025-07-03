@@ -1,0 +1,674 @@
+[
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_activity_booked_appointment.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_booked_appointment.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/navigation_nav_graph.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_report.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_report.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_item_article.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/item_article.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_activity_user_profile.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_user_profile.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_dr_image2.jpg.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/dr_image2.jpg"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_notification.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_arrow_left.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/arrow_left.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_item_appointment.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/item_appointment.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_fragment_own_report.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/fragment_own_report.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/font_app_font_poppins.ttf.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/font/app_font_poppins.ttf"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_home.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_health_test.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_health_test.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_fragment_home.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_swipe_reveal_layout.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/swipe_reveal_layout.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_img.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/img.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_bmi_calculator.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_bmi_calculator.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/font_manrope.ttf.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/font/manrope.ttf"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_fragment_slider.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/fragment_slider.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_signout.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_signout.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_dialog_logout_confirmation.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/dialog_logout_confirmation.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_custom_shape.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/custom_shape.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_dr_image3.jpg.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/dr_image3.jpg"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_activity_splash_screen.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_eyeslash.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_eyeslash.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_activity_login.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_articles_shape.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/articles_shape.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_profile.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_item_report.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/item_report.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_activity_articles.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_articles.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_notifications.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_notifications.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_gray_rounded_bg.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/gray_rounded_bg.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_phone.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_phone.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_editext_bg.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/editext_bg.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_clock.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_clock.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_slider_item.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/slider_item.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_fragment_chat.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_image1.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/image1.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_tests_selected.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_tests_selected.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_log_out_popup.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/log_out_popup.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_bottom_nav_icon_color.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/bottom_nav_icon_color.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_x.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_x.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_fragment_parental_receipt.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/fragment_parental_receipt.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_activity_email_signup.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_email_signup.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_activity_email_verification.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_email_verification.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_popup_background.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/popup_background.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_security.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_security.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_password_eye.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/password_eye.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_profile_notification.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/profile_notification.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_password.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_password.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_availaibilty.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_availaibilty.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_search.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_activity_forget_password.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_forget_password.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_bottom_sheet_bg.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/bottom_sheet_bg.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_fragment_parental_reports.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/fragment_parental_reports.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_open_email.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/open_email.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_placeholder_image.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/placeholder_image.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_profile_img.jpeg.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/profile_img.jpeg"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_recipt.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_recipt.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_user.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_user.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_error_image.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/error_image.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_img_1.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/img_1.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_activity_receipt_handling.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_receipt_handling.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_profile_selected.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_profile_selected.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_card_background.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/card_background.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/menu_chat_menu.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/menu/chat_menu.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_dialog_loading.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/dialog_loading.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_custom_signin.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/custom_signin.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_custom_code.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/custom_code.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_status.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_status.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_location.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_location.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_activity_phone_verification.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_phone_verification.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_icon_download.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/icon_download.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_item_test.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/item_test.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_chatboticon.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/chatboticon.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/menu_main_menu.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_user_placeholder.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_user_placeholder.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_tab_selector.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/tab_selector.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_test.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_test.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_password.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/password.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_drop_down_menu.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/drop_down_menu.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_dr_image.jpg.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/dr_image.jpg"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_custom_hide_line.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/custom_hide_line.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_clock.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/clock.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_custom_button_save.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/custom_button_save.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_activity_main.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_bottom_nav_text_color.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/bottom_nav_text_color.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_fragment_tests_available.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/fragment_tests_available.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_circular_background.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/circular_background.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_price.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_price.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_logo.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/logo.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_white_bg.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/white_bg.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_tab_selected_background.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/tab_selected_background.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_report_sample.jpeg.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/report_sample.jpeg"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/xml_data_extraction_rules.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_home_selected.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_home_selected.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_messenger.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/messenger.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_health_issues.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_health_issues.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_eye.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_eye.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_bg_round_corners.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/bg_round_corners.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_menu.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_menu.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_fragment_own_receipt.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/fragment_own_receipt.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_activity_appointment.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_appointment.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_circle_background.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/circle_background.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_arrow_up.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_arrow_up.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_activity_chatbot.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_chatbot.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_appointment.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_appointment.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_setup.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/setup.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_caretright.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_caretright.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_helpnsupp.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_helpnsupp.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_dialog_appointment_added.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/dialog_appointment_added.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_booked_appointments.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_booked_appointments.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_email.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/email.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_activity_report_access.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_report_access.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_reports.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_reports.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_fragment_profile.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_activity_notification.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_notification.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_custom_button.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/custom_button.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_chat_menu_icon.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/chat_menu_icon.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_red_notify.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/red_notify.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_heart.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/heart.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_delete.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_delete.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_card.jpg.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_card.jpg"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_activity_cnicsubmission.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_cnicsubmission.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_notif_selected.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_notif_selected.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_edit_profile_bg.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/edit_profile_bg.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_arrowleft.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_arrowleft.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_calendar.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_calendar.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_user.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/user.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_fragment_reports.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/fragment_reports.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_profile_image.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/profile_image.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_nutritionplan.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/nutritionplan.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_item_help_card.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/item_help_card.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/xml_backup_rules.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_activity_image_viewer.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_image_viewer.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_book_appointment.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_book_appointment.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_bloodpressure.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/bloodpressure.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_fragment_chat_about.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/fragment_chat_about.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_arrow_down.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_arrow_down.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_activity_home_report_access.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_home_report_access.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_email.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_tab_selected_animation.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/tab_selected_animation.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_rounded_background.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/rounded_background.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_item_receipt.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/item_receipt.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/raw_loading.json.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/raw/loading.json"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_health.jpg.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/health.jpg"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/layout_activity_bmi.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_bmi.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_reports_selected.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_reports_selected.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_ic_chatbot.png.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/ic_chatbot.png"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-debug-60:/drawable_btm_overlay.xml.flat",
+        "source": "com.Hardik.Arogyam2.app-main-62:/drawable/btm_overlay.xml"
+    }
+]

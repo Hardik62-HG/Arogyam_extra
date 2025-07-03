@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/item_report.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/item_report.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/fragment_home.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/activity_user_profile.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_user_profile.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/dialog_loading.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/dialog_loading.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/fragment_profile.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/activity_home_report_access.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_home_report_access.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/activity_articles.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_articles.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/item_article.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/item_article.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/item_test.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/item_test.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/fragment_own_receipt.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/fragment_own_receipt.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/fragment_parental_reports.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/fragment_parental_reports.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/fragment_reports.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/fragment_reports.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/activity_chatbot.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_chatbot.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/activity_splash_screen.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/activity_notification.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_notification.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/fragment_tests_available.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/fragment_tests_available.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/activity_email_verification.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_email_verification.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/log_out_popup.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/log_out_popup.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/activity_cnicsubmission.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_cnicsubmission.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/fragment_parental_receipt.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/fragment_parental_receipt.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/dialog_logout_confirmation.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/dialog_logout_confirmation.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/fragment_own_report.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/fragment_own_report.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/activity_forget_password.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_forget_password.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/swipe_reveal_layout.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/swipe_reveal_layout.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/item_appointment.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/item_appointment.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/activity_main.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/item_receipt.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/item_receipt.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/dialog_appointment_added.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/dialog_appointment_added.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/activity_report_access.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_report_access.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/activity_image_viewer.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_image_viewer.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/activity_appointment.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_appointment.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/activity_receipt_handling.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_receipt_handling.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/activity_phone_verification.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_phone_verification.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/activity_bmi.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_bmi.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/fragment_chat_about.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/fragment_chat_about.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/item_help_card.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/item_help_card.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/fragment_slider.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/fragment_slider.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/slider_item.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/slider_item.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/fragment_chat.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/activity_email_signup.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_email_signup.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/activity_login.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.Hardik.Arogyam2.app-mergeDebugResources-59:/layout/activity_booked_appointment.xml",
+        "source": "com.Hardik.Arogyam2.app-main-62:/layout/activity_booked_appointment.xml"
+    }
+]

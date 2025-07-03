@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="height_units">
+        <item>Centimeters</item>
+        <item>Meters</item>
+        <item>Feet and Inches</item>
+    </string-array>
+    <string-array name="weightUnit">
+        <item>Kg </item>
+        <item>lbs </item>
+    </string-array>
+    <color name="Darkblue"> #407CE2</color>
+    <color name="LightGray">#F8F8F8</color>
+    <color name="LightText">#75788D</color>
+    <color name="LightText2">#ACAEBE</color>
+    <color name="accentColor">#F39C12</color>
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="black">#0F1225</color>
+    <color name="blue"> #407BFF</color>
+    <color name="buttonColor">#E74C3C</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+    <color name="cardBackground">#F8F9FA</color>
+    <color name="gray">#221F1F</color>
+    <color name="grayBg">#EFEFEF</color>
+    <color name="primaryColor">#3498DB</color>
+    <color name="primaryDark">#2C3E50</color>
+    <color name="red">#D33415</color>
+    <color name="shadowColor">#BB000000</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <item name="btn_cancel" type="id"/>
+    <item name="btn_close" type="id"/>
+    <item name="tv_message" type="id"/>
+    <string name="_5h_ago">5h ago</string>
+    <string name="_6">6</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="app_name">Arogyam</string>
+    <string name="change_password">Change Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="congratulation_your_account_already_created_please_login_to_get_amazing_experience">Congratulation! your account already created. Please login to get amazing experience.</string>
+    <string name="create_account">Create Account</string>
+    <string name="create_new_password">Create New Password</string>
+    <string name="didn_t_receive_the_code">Didn\'t receive the code ?</string>
+    <string name="email_or_phone_number">Email or Phone number</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_email_or_phone_number">Enter your email or phone number</string>
+    <string name="error_profile">Error</string>
+    <string name="find_a_doctor_easily_from_your_phone">Find a Doctor easily from your phone</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="gcm_defaultSenderId" translatable="false">441499442599</string>
+    <string name="go_to_homepage">Go to Homepage</string>
+    <string name="google_api_key" translatable="false">AIzaSyAE_M8xkVEBF75kwQ1woNd5dF_rXd5EnGA</string>
+    <string name="google_app_id" translatable="false">1:441499442599:android:143c26f1510698a184aa82</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAE_M8xkVEBF75kwQ1woNd5dF_rXd5EnGA</string>
+    <string name="google_storage_bucket" translatable="false">arogyam2.firebasestorage.app</string>
+    <string name="healthyup">Healthyup</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hi_john">Hi, John</string>
+    <string name="i_don_t_have_an_account">Don’t have an account?</string>
+    <string name="login_account">Login Account</string>
+    <string name="magdelana83_mail_com">magdelana83@mail.com</string>
+    <string name="make_an_appointment">Make an Appointment</string>
+    <string name="may_you_always_be_healthy">May you always be healthy</string>
+    <string name="mental_health_and_wellbeing_during_challenging">Mental Health and Well-Being During Challenging…</string>
+    <string name="no_user_authenticated">Complete Profile</string>
+    <string name="num">50</string>
+    <string name="password">Password</string>
+    <string name="please_login_with_registered_account">Please login with registered account</string>
+    <string name="popular_articles">Popular Articles</string>
+    <string name="populart">#1 populart</string>
+    <string name="project_id" translatable="false">arogyam2</string>
+    <string name="register_success">Register Success</string>
+    <string name="resend">Resend</string>
+    <string name="see_all">See All</string>
+    <string name="send_code">Send Code</string>
+    <string name="sign_up">Sign up</string>
+    <string name="signin">Sign In</string>
+    <string name="start_learning_with_create_your_account">Start learning with create your account</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_fragment">FragmentActivity</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="username">Username</string>
+    <string name="verification">Verification</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="verification_mail">Verification Mail</string>
+    <string name="we_have_to_sent_the_code_verification_to">We have to sent the code verification to</string>
+    <style name="Base.Theme.UserModuleUpdated" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/app_font_poppins</item>
+        
+
+
+        <item name="colorPrimary">@color/blue</item>
+    </style>
+    <style name="CustomBottomNavigationView" parent="Widget.MaterialComponents.BottomNavigationView.Colored">
+        <item name="itemBackground">@android:color/transparent</item>
+    </style>
+    <style name="Theme.UserModuleUpdated" parent="Base.Theme.UserModuleUpdated"/>
+</resources>
